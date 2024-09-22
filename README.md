@@ -17,7 +17,7 @@
     ·
     <strong>Lokesh R Boregowda</strong>
     ·
-    <a href="https://yashbhalgat.github.io/" target="_blank"><strong>R Venkatesh Babu</strong></a> <sup>1</sup>
+    <a href="https://cds.iisc.ac.in/faculty/venky/" target="_blank"><strong>R Venkatesh Babu</strong></a> <sup>1</sup>
 </p>
 <p align="center" style="padding-top: 0px;">
     <sup><b>*</b></sup> Equal Contribution
@@ -33,7 +33,7 @@
 [comment]: <> (  <h2 align="center">PAPER</h2>)
   <h3 align="center">
     <!-- <a href="">Paper</a> |  -->
-    <a href="">Project Page</a></h3>
+    <a href="https://val.cds.iisc.ac.in/reflecting-reality.github.io/">Project Page</a></h3>
   <div align="center"></div>
 
 <p align="center">
@@ -41,7 +41,10 @@
     <!-- <img src="./scripts/teaser.png" alt="Teaser" width="80%"> -->
   </a>
 </p>
-<p align="center">
-<!-- Short Summary -->
-</p>
-<br>
+
+## Summary
+
+
+We tackle the challenge of generating realistic mirror reflections using diffusion-based generative models, formulated as an image inpainting task to enable user control over mirror placement. To support this, we introduce **SynMirror**, a dataset with $198K$ samples rendered from $66K$ 3D objects, including depth maps, normal maps, and segmentation masks to capture scene geometry. 
+
+We propose **MirrorFusion**, a novel depth-conditioned inpainting method that produces high-quality, photo-realistic reflections, given an input image and mirror mask. **MirrorFusion** outperforms state-of-the-art methods on **SynMirror**, offering new possibilities for image editing and augmented reality.
