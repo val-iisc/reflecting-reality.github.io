@@ -32,7 +32,7 @@
 
 [comment]: <> (  <h2 align="center">PAPER</h2>)
   <h3 align="center">
-    <!-- <a href="">Paper</a> |  -->
+    <a href="https://arxiv.org/abs/2409.14677">Paper</a> | 
     <a href="https://val.cds.iisc.ac.in/reflecting-reality.github.io/">Project Page</a></h3>
   <div align="center"></div>
 
